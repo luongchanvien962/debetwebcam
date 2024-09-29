@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Debet – Nhà cái châu Âu uy tín 2024, cơn sốt mới của game thủ Việt
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Debet <https://debet.webcam/>`_ – nhà cái châu Âu uy tín nhất 2024, đang tạo nên cơn sốt trong cộng đồng game thủ Việt Nam. Ra mắt từ năm 2014 tại châu Âu, Debet nhanh chóng khẳng định vị thế nhờ uy tín, chất lượng dịch vụ và một kho game phong phú, đa dạng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nổi bật với các trò chơi cá cược thể thao, casino, quay số, nổ hũ, lô đề, và bắn cá, Debet mang đến trải nghiệm giải trí đỉnh cao với đồ họa hiện đại, tỷ lệ trả thưởng hấp dẫn và tính bảo mật cao. Với sự hỗ trợ 24/7 từ đội ngũ chăm sóc khách hàng chuyên nghiệp, Debet cam kết mang lại cho người chơi một sân chơi an toàn, công bằng, và đầy cơ hội.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: Tổ 10/129F ấp 5, Xuân Thới Thượng, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0899887865. 
 
-.. toctree::
+Email: info@debet.webcam. 
 
-   usage
-   api
+Website: https://debet.webcam/ 
+
+#debet #nhacaidebet #trangchudebet #dangkydebet #linkdebet
